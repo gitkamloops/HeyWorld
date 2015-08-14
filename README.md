@@ -1,6 +1,6 @@
 # HeyWorld
 Learning GitHub
-HeyWorld is the advanced version of HelloWorld.
+HeyWorld is the advanced version of HelloWorld.<br>
 This is a open source project to help people around the world to have access to a better HelloWorld application
 
 ## To-Do List
